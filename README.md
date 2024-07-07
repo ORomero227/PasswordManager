@@ -10,4 +10,4 @@
 ### Adding a new password
 ![Add](screenshots/sc-01.png)
 ### Searching for a password
-![Search](screnshots/sc-02.png)
+![Search](screenshots/sc-02.png)

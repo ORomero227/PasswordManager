@@ -1,4 +1,4 @@
-# This project is a password manager that generates secure passwords and stores them with associated website and email/username information. It also allows searching for stored passwords.
+### This project is a password manager that generates secure passwords and stores them with associated website and email/username information. It also allows searching for stored passwords.
 
 ## Features
 
@@ -6,7 +6,7 @@
 - **Password Storage:** Saves password information in a `data.json` file.
 - **Password Search:** Allows you to search for stored passwords by website.
 
-# Program Running Screenshots
+## Program Running Screenshots
 ### Adding a new password
 ![Add](screenshots/sc-01.png)
 ### Searching for a password
